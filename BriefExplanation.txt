@@ -1,5 +1,7 @@
-rm -r *my_folder* This command will delete the specified folder and any files within it.
+git init - Don't want to close existing repo, create new local in directory working 
 
 Git commit - takes everything in staging and makes permanent snapshot
 
-touch index.txt - Will create a file within the current directory 
+git push - gets new file(s) or changes made to remote repository. Updates remote repo with all changes made locally.
+
+git add - when a file is created or changed in local repo and you want to update your remote repo. Git doesn't change remote repo; only adds files to staging area
