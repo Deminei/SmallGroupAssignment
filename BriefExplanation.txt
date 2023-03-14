@@ -4,4 +4,4 @@ Git commit - takes everything in staging and makes permanent snapshot
 
 git push - gets new file(s) or changes made to remote repository. Updates remote repo with all changes made locally.
 
-git add - when a file is created or changed in local repo and you want to update your remote repo. Git doesn't change remote repo; only adds files to staging area
+git add -- when a file is created or changed in local repo and you want to update your remote repo. Git doesn't change remote repo; only adds files to staging area
