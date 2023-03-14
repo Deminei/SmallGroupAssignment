@@ -1,2 +1,4 @@
 rm -r *my_folder* This command will delete the specified folder and any files within it.
 
+Git commit - takes everything in staging and makes permanent snapshot
+
