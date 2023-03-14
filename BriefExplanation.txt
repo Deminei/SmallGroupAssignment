@@ -2,3 +2,4 @@ rm -r *my_folder* This command will delete the specified folder and any files wi
 
 Git commit - takes everything in staging and makes permanent snapshot
 
+touch index.txt - Will create a file within the current directory 
